@@ -1,3 +1,3 @@
 select
 	sum(population)
-from "population"."population";
+from "populationdb"."population";
